@@ -1,3 +1,43 @@
 body {
-    background-color: bisque;
+    background-color: rgb(33, 110, 148);
+}
+
+
+div {
+    border: 2px solid black;
+    margin: 100px 0px 0px 50px;
+    /*margin-left: 200px; */
+
+    padding-top: 10px;
+    
+}
+
+nav {
+    border: 10px solid rgb(117, 207, 231) ;
+}
+
+img {
+    width: 200px;
+}
+
+/*nav {
+    margin-left: 200px;
+}*/
+
+.batas {
+    margin-left: 200px;
+}
+
+.warna {
+    background-color: rgb(196, 231, 255);
+}
+
+#bekgron {
+    background-color: rgb(91, 172, 193);
+    position: sticky;
+    top: 200px;
+}
+
+#kanan {
+    margin-left: 200p;
 }
