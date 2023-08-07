@@ -1,27 +1,13 @@
 body {
-    background-color: rgb(33, 110, 148);
-}
-
-
-div {
-    border: 2px solid black;
-    margin: 100px 0px 0px 50px;
-    /*margin-left: 200px; */
-
-    padding-top: 10px;
-    
-}
-
-nav {
-    border: 10px solid rgb(117, 207, 231) ;
+    background-color: bisque;
 }
 
 img {
-    width: 200px;
+    width: 300px;
 }
 
 /*nav {
-    margin-left: 200px;
+    margin-left: 200px;   
 }*/
 
 .batas {
@@ -29,15 +15,13 @@ img {
 }
 
 .warna {
-    background-color: rgb(196, 231, 255);
+    background-color: rgb(179, 148, 102);
 }
 
 #bekgron {
-    background-color: rgb(91, 172, 193);
-    position: sticky;
-    top: 200px;
+    background-color: rgb(215, 161, 95);
 }
 
-#kanan {
-    margin-left: 200p;
+#kiri {
+    margin-left: 200px;
 }
