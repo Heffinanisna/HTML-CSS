@@ -8,6 +8,19 @@
     margin: auto;
 }
 
+li:hover {
+    background-color: rgb(88, 206, 206);
+}
+
+h2:hover {
+    background-color: rgb(88, 206, 206);
+}
+
+p::first-letter {
+    color: black;
+    font-size: xx-large;
+}
+
 .display {
     display: inline-block;
     padding: 3%;
