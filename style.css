@@ -16,6 +16,10 @@ h2:hover {
     background-color: rgb(88, 206, 206);
 }
 
+.card:target{
+    background-color: rgb(91, 178, 178);
+}
+
 p::first-letter {
     color: black;
     font-size: xx-large;
@@ -51,4 +55,8 @@ img {
 
 .rata {
     text-align:center;
+}
+
+a {
+    color: black;
 }
