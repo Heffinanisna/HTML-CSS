@@ -4,7 +4,7 @@
 }
 
 img {
-    width: 200px;
+    width: 100px;
 }
 
 .card {
@@ -12,6 +12,12 @@ img {
 }
 
 .horizontal {
+    padding: 10px;
     display: flex;
-    flex-direction: row;
+    flex-direction: center;
+    gap: 30px;
+}
+
+.rata {
+    text-align:center;
 }
